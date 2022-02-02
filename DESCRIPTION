@@ -3,7 +3,7 @@ Title: Regular Expressions (Demo For DATA-303)
 Version: 0.0.0.9000
 Authors@R: 
     person("Nick", "Beery", , "nwb4@calvin.edu", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Contains some tools for using regular expressions in R.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
